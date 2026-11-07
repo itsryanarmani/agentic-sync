@@ -3,7 +3,7 @@
 ## Report a problem
 
 Use GitHub private vulnerability reporting on
-https://github.com/pooriaarab/agentic-sync/security/advisories/new.
+https://github.com/itsryanarmani/agentic-sync/security/advisories/new.
 Do not open a public issue for a security problem.
 
 We reply within 5 working days. We fix confirmed problems and publish an
