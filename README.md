@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/agentic-realtime)](https://www.npmjs.com/package/agentic-realtime)
 [![MIT license](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/license/mit)
 
-[Package](https://www.npmjs.com/package/agentic-realtime) · [Source](https://github.com/pooriaarab/agentic-sync) · [Support](https://github.com/pooriaarab/agentic-sync/issues)
+[Package](https://www.npmjs.com/package/agentic-realtime) · [Source](https://github.com/itsryanarmani/agentic-sync) · [Support](https://github.com/itsryanarmani/agentic-sync/issues)
 
 Live edits for people and agents on one document, with offline support.
 

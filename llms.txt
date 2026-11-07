@@ -39,5 +39,5 @@ Keywords: yjs,crdt,realtime,collaboration,presence,offline,agents,durable-object
 
 ## Docs
 
-- README: https://github.com/pooriaarab/agentic-sync
+- README: https://github.com/itsryanarmani/agentic-sync
 - License: MIT
